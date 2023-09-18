@@ -1,0 +1,1 @@
+web: java -cp target/classes co.edu.escuelaing.reflexionlab.controller.Spring co.edu.escuelaing.reflexionlab.controller.HelloController
